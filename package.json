@@ -1,5 +1,5 @@
 {
-  "name": "node-tutorials",
+  "name": "node-js-tutorials",
   "version": "1.0.0",
   "description": "tutorials of node js",
   "main": "index.js",
@@ -12,5 +12,14 @@
   "dependencies": {
     "express": "^4.17.3",
     "nodemon": "^2.0.15"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucky6400/NodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lucky6400/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Lucky6400/NodeJS#readme"
 }
